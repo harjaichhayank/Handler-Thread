@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">finalPractice</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="second_text_view">Second Text View</string>
+    <string name="send_message_to_blue">Send Message To Blue</string>
+    <string name="enter_message_here">Enter message Here</string>
+    <string name="text_will_be_shown_here">Text Will Be Shown Here</string>
+</resources>
